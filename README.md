@@ -3,7 +3,7 @@ This repository documents my learning journey through the Elzero Academy's Front
 
 # Elzero Front-End Developer Path
 
-Welcome to my repository! This space is dedicated to documenting my learning journey as I progress through the Elzero Academy's Front-End Developer Path. As an aspiring Front-End Developer, I am improving my HTML, CSS, and JavaScript skills to build attractive and engaging websites.
+Welcome to my repository! This space is dedicated to documenting my learning journey as I progress through the [Elzero Academy's Front-End Developer Path](https://elzero.org/tracks/front-end/) . As an aspiring Front-End Developer, I am improving my HTML, CSS, and JavaScript skills to build attractive and engaging websites.
 
 ## What to expect in this repository:
 
