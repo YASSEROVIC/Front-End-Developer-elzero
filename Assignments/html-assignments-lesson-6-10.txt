@@ -1,0 +1,44 @@
+<!DOCTYPE html> 
+
+---
+
+Quirk mode 
+
+---
+
+No, only one H1 per page 
+
+---
+
+No, H2 important than H3
+
+---
+
+important Title level ( 1 is most important) 
+
+---
+
+all 3 lines will work fine 
+<p class="element">Welcome To The New World</p>
+<p class='element'>Welcome To The New World</p>
+<p class=element>Welcome To The New World</p>
+
+---
+
+no, will work fine :
+<p class=element hidden>Welcome To The New World</p>
+<p class="element" hidden>Welcome To The New World</p>
+
+---
+
+no need to use <br> tag to start new line
+
+---
+title: Global Attribute
+href: Global Attribute
+src: Global Attribute
+hidden: Global Attribute
+    charset: Non-Global Attribute
+class: Global Attribute
+id: Global Attribute
+    type: Non-Global Attribute
